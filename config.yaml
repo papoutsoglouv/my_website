@@ -86,7 +86,7 @@ params:
       - image: picFS.jpg
         subtitle: My professional life in an A4 page
         title: CV
-        url: blogs/tempus
+        url: blogs/CV
       - image: barca.jpg
         subtitle: My proudest group creation in R
         title: Coding work
