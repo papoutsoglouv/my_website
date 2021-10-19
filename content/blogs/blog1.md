@@ -14,11 +14,17 @@ title: Who I am
 
 My name is Vasileios and I am 22 years old. I was born in Athens, Greece but spent the largest part of my childhood in a beautiful little city called Volos. For the 99% of you who have never heard of Volos, please see a city photo taken from mountain Pelion:
 
+
+---
 image: pelion_view.jpg
+---
 
 And now a photo of the city promenade:
 
+---
 image: port_view.jpg
+---
+
 
 ## My education
 
