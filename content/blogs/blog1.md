@@ -5,6 +5,7 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
+image: pelion_view.jpg
 keywords: ""
 slug: Autobiography
 title: Who I am
@@ -16,7 +17,7 @@ My name is Vasileios and I am 22 years old. I was born in Athens, Greece but spe
 
 
 ---
-image: pelion_view.jpg
+showcase:
 ---
 
 And now a photo of the city promenade:
