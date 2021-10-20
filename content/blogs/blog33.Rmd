@@ -3,7 +3,7 @@ title: "Airbnb Analytics"
 author: "Vasileios Papoutsoglou"
 date:
 output: html_document
-slug: barcelona
+slug: blog33
 categories:
 - ''
 - ''
