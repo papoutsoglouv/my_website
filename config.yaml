@@ -82,7 +82,7 @@ params:
       - image: picVP.jpg
         subtitle: A short autobiography
         title: About me
-        url: blogs/autobiography.Rmd
+        url: about/autobiography.Rmd
       - image: picFS.jpg
         subtitle: My professional life in an A4 page
         title: CV
@@ -90,7 +90,7 @@ params:
       - image: barca.jpg
         subtitle: My proudest group creation in R
         title: Coding work
-        url: blogs/barca
+        url: coding/barcelona
       - image: Gilead.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
