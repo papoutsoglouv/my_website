@@ -67,12 +67,12 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: About me
-        url: blog11
-      - name: CV
-        url: blogs/CV
-      - name: Coding work
-        url: blog33
+#      - name: About me
+#        url: blog11
+#      - name: CV
+#        url: blogs/CV
+#      - name: Coding work
+#        url: blog33
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -92,8 +92,8 @@ params:
         title: Coding work
         url: blog33
       - image: Gilead.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Gilead Sciences Investment Recommendation
+        title: Work projects
         url: blogs/ipsum
 #     - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
