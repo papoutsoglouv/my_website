@@ -68,7 +68,7 @@ params:
       - name: Home
         url: '#'
 #      - name: About me
-#        url: blog11
+#        url: blog1
 #      - name: CV
 #        url: blogs/CV
 #      - name: Coding work
@@ -82,19 +82,19 @@ params:
       - image: picVP.jpg
         subtitle: A short autobiography
         title: About me
-        url: blogs/blog11
+        url: blogs/blog1
       - image: picFS.jpg
         subtitle: My professional life in an A4 page
         title: CV
-        url: blogs/CV
+        url: blogs/cv
       - image: barca.jpg
         subtitle: My proudest group creation in R
         title: Coding work
-        url: blogs/blog33
+        url: blogs/blog3
       - image: Gilead.jpg
         subtitle: Gilead Sciences Investment Recommendation
         title: Work projects
-        url: blogs/ipsum
+        url: blogs/gilead
 #     - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
 #        title: Consequat

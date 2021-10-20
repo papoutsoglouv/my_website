@@ -5,23 +5,16 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
+image: pelion.jpg
 keywords: ""
-slug: Autobiography
+slug: blog1
 title: Who I am
 ---
 
 ## Early life
 
-My name is Vasileios and I am 22 years old. I was born in Athens, Greece but spent the largest part of my childhood in a beautiful little city called Volos. For the 99% of you who have never heard of Volos, please see a city photo taken from mountain Pelion above:
+My name is Vasileios and I am 22 years old. I was born in Athens, Greece but spent the largest part of my childhood in a beautiful little city called Volos. For the 99% of you who have never heard of Volos, please see a city photo taken from mountain Pelion above.
 
-```{r picture, echo=FALSE, out.width="60%", fig.align="center"}
-knitr::include_graphics("pelion_view.jpg", error = FALSE)
-```
-And one of the promenade:
-
-```{r picture, echo=FALSE, out.width="60%", fig.align="center"}
-knitr::include_graphics("port_view.jpg", error = FALSE)
-```
 
 ## My education
 
