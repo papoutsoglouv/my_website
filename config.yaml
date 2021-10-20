@@ -67,12 +67,12 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: About me
+        url: about/autobiography.Rmd
+      - name: CV
+        url: blogs/CV
+      - name: Coding work
+        url: coding/barcelona
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
