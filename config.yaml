@@ -82,7 +82,7 @@ params:
       - image: picVP.jpg
         subtitle: A short autobiography
         title: About me
-        url: blogs/blog1
+        url: blogs/auto
       - image: picFS.jpg
         subtitle: My professional life in an A4 page
         title: CV
@@ -90,15 +90,15 @@ params:
       - image: barca.jpg
         subtitle: My proudest group creation in R
         title: Coding work
-        url: blogs/blog3
+        url: blogs/blog33
       - image: Gilead.jpg
         subtitle: Gilead Sciences Investment Recommendation
         title: Work projects
         url: blogs/gilead
-#     - image: pic05.jpg
-#        subtitle: Ipsum Dolor Sit Amet
-#        title: Consequat
-#        url: blogs/ipsum
+      - image: spff.jpeg
+        subtitle: Interests
+        title: Spearfishing
+        url: blogs/spear
 #      - image: pic06.jpg
 #        subtitle: Feugiat Amet Tempus
 #        title: Etiam
