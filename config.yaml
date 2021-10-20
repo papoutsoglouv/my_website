@@ -93,7 +93,7 @@ params:
         url: blogs/blog33
       - image: Gilead.jpg
         subtitle: Gilead Sciences Investment Recommendation
-        title: Work projects -
+        title: Work projects
         url: blogs/ipsum
 #     - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
