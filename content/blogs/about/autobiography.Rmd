@@ -2,6 +2,7 @@
 title: "Who Am I ?"
 author: "Vasileios Papoutsoglou"
 output: html_document
+slug: autobiography
 ---
 
 ## Early life
