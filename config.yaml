@@ -82,7 +82,7 @@ params:
       - image: picVP.jpg
         subtitle: A short autobiography
         title: About me
-        url: blogs/autobiography
+        url: blogs/autobiography.Rmd
       - image: picFS.jpg
         subtitle: My professional life in an A4 page
         title: CV
