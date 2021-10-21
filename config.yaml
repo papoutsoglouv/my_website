@@ -22,9 +22,9 @@ params:
       - email: vasileiosp.mfa2022@london.edu
         title: Email
     enable: yes
-#    phone:
-#      - phone: (000) 000-0000 x1234
-#        title: Phone
+    phone:
+      - phone: (+30) 24210 37205
+        title: Phone
   custom_css: []
   custom_js: []
   description: Your description
