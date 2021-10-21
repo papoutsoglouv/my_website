@@ -83,12 +83,12 @@ params:
         subtitle: A short autobiography
         title: About me
         url: blogs/auto
-      - image: picFS.jpg
+      - image: fs.jpg
         subtitle: My professional life in an A4 page
         title: CV
         url: blogs/cv
       - image: barca.jpg
-        subtitle: My proudest group creation in R
+        subtitle: Working with R
         title: Coding work
         url: blogs/blog33
       - image: Gilead.jpg
@@ -96,7 +96,7 @@ params:
         title: Work projects
         url: blogs/gilead
       - image: spff.jpeg
-        subtitle: Interests
+        subtitle: Sunny times and good vibes
         title: Spearfishing
         url: blogs/spear
 #      - image: pic06.jpg
